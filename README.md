@@ -81,3 +81,4 @@ if __name__ == "__main__":
 这个脚本创建了一个简单的函数绘制器GUI，用户可以输入函数表达式（例如np.sin(x)），点击“绘制函数”按钮后，绘制相应的函数图形。可以绘制更多复杂的函数，并对代码进行扩展和优化。
 
 # 屏幕截图
+![logo](https://github.com/sun12yyds/Python-functiondrawer/blob/main/photo/6.png)
